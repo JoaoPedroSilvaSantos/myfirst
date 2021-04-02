@@ -1,0 +1,71 @@
+body {
+    margin: 0px;
+    background-color: #e2d8e7;
+    text-decoration: #21022d;
+}
+
+#topo-do-site {
+    color: white;
+    background-color: #21022d;
+    text-align: center;
+    padding: 8px;
+}
+
+.bodybody{
+    margin: 0px;
+    border: 24px solid white;
+    padding: 16px;
+}
+
+.bodybody2{
+    margin-top: 32px;
+    margin-left: 64px;
+    margin-right: 64px;
+}
+
+h1{
+    margin: 0px;
+    padding: 0px;
+}
+
+h2{
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+h3{
+    margin-top: 32px;
+}
+
+.class2{
+    display: block;
+    margin-top: 32px;
+    margin-left: auto;
+    margin-right: auto;   
+}
+
+.final{
+    margin: 64px 0px 0px;
+    margin-top: 64px;
+    text-align: center;
+}
+
+.Rodape{
+    color: white;
+    background-color: #21022d;
+    text-align: center;
+    padding: 8px;
+}
+
+img{
+    border-radius: 50%;
+}
+
+.separado{
+    border: 5px solid #21022d;
+    padding: 30px;
+    margin: 20px;
+    display: inline-block;
+    border-radius: 10%;
+    width: 500px;
+}
